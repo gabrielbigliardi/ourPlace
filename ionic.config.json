@@ -1,0 +1,7 @@
+{
+  "name": "our-place",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
